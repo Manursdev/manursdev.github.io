@@ -5,3 +5,12 @@ text-align: center;
 p {
     text-align: center;
 }
+
+#caja-uno {
+ background-color: blue;
+}
+#caja-dos {
+background-color: red;
+padding: 10px;
+    box-shadow: 5px;
+}
