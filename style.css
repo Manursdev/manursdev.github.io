@@ -5,8 +5,7 @@ text-align: center;
 
 #caja-uno {
  background-color: blue;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin:50px;
 }
 #caja-dos {
 background-color: red;
